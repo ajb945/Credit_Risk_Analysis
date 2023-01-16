@@ -20,7 +20,7 @@ Using this algorithm:
 - The balanced accuracy score was 64%
 - The high risk precision rate was 1% with the recall at 61%
 - The low risk precision rate was 100% with the recall at 67%
-- The average/total precision rate was 99 with the recall at 67
+- The average/total precision rate was 99% with the recall at 67%
 
 **SMOTE Oversampling:**
 
@@ -32,7 +32,7 @@ Using this algorithm:
 - The balanced accuracy score was 63%
 - The high risk precision rate was 1% with the recall at 62%
 - the low risk precision rate was 100% with the recall at 63%
-- The average/total precision rate was 99 with the recall at 63
+- The average/total precision rate was 99% with the recall at 63%
 
 ### Undersampling
 
@@ -46,9 +46,9 @@ Secondly, the data was undersampled using the Cluster Centroids algorithm.
 
 Using this algorithm:
 - The balanced accuracy score was 51%
-- The high risk precision rate was 1 with the recall at 59
-- the low risk precision rate 100 was with the recall at 43
-- The average/total precision rate was 99 with the recall at 44
+- The high risk precision rate was 1% with the recall at 59%
+- the low risk precision rate 100% was with the recall at 43%
+- The average/total precision rate was 99% with the recall at 44%
 
 ### Combination (Over and Under) Sampling
 
@@ -62,9 +62,9 @@ Third, a combinational approach of over- and undersampling using the SMOTEENN al
 
 Using this algorithm:
 - The balanced accuracy score was 64%
-- The high risk precision rate was 1 with the recall at 70
-- the low risk precision rate was 100 with the recall at 57
-- The average/total precision rate was 99 with the recall at 57
+- The high risk precision rate was 1% with the recall at 70%
+- the low risk precision rate was 100% with the recall at 57%
+- The average/total precision rate was 99% with the recall at 57%
 
 ### Ensemble Learners
 
@@ -80,7 +80,7 @@ Using this algorithm:
 - The balanced accuracy score was 79%
 - The high risk precision rate was 4% with the recall at 67%
 - the low risk precision rate was 100% with the recall at 91%
-- The average/total precision rate was 99 with the recall at 91
+- The average/total precision rate was 99% with the recall at 91%
 
 **Easy Ensemble AdaBoost Classifier:**
 
@@ -89,10 +89,10 @@ Using this algorithm:
 ![easy_ensemble_scores](images/easy_ensemble_scores.png)
 
 Using this algorithm:
-- The balanced accuracy score was 93
-- The high risk precision rate was 7 with the recall at 91
-- the low risk precision rate was 100 with the recall at 94
-- The average/total precision rate was 99 with the recall at 94
+- The balanced accuracy score was 93%
+- The high risk precision rate was 7% with the recall at 91%
+- the low risk precision rate was 100% with the recall at 94%
+- The average/total precision rate was 99% with the recall at 94%
 
 ## Summary
 
