@@ -96,6 +96,6 @@ Using this algorithm:
 
 ## Summary
 
-From the results of the six models ran, the Easy Ensemble AdaBoost Classifier yielded the best results with a balanced accuracy rate of 93%. Although a number of models had a precision rate of 100% for low risk, the recall was the highest at 94%. It also had a high risk precision rate of 7% with a recall rate of 91%, which was the highest numbers for all the models tested.
+From the results of the six models ran, the Easy Ensemble AdaBoost Classifier yielded the best results with a balanced accuracy rate of 93%. Although a number of models including the Easy Ensemble model had a precision rate of 100% for low risk, the recall for the Easy Ensemble was the highest at 94%. The Easy Ensemble model also had a high risk precision rate of 7% with a recall rate of 91%, which was the highest numbers for all the models tested.
 
-Although out of the six models the Easy Ensemble model would be the recommended model, the low percentages for predicting high risk groups in the results for all the models would make it hard to recommend any of the algorithms for that purpose.
+Although out of the six models the Easy Ensemble model would be the recommended model, the low percentages for predicting high risk groups in the results for all the models would make it hard to recommend any of the algorithms for that purpose. However, if there were a higher number of high risk numbers to test (there were only 347 as opposed to 68,470 low risk values), perhaps a better outcome could be achieved.
